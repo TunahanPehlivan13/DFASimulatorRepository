@@ -4,7 +4,7 @@ public class Main
 {
 
 	/**
-	 * @param args
+	 * @param argsd
 	 */
 	public static void main(String[] args)
 	{
